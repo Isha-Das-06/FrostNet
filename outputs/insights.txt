@@ -1,0 +1,8 @@
+Model Evaluation Results:
+Precision: 0.0120
+Recall: 0.0600
+MAE: 0.0587
+RMSE: 0.2423
+
+Detected anomalies are visualized in the final chart.
+Visualizations have been saved in the 'outputs' folder.
